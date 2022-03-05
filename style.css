@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(188, 225, 240);
+}
+.container{
+   
+    text-align: center;
+    margin-top: 9%;
+    border: solid  rgb(185, 60, 22)2px;
+    height: 400px;
+    width: 700px;
+    position: absolute;
+    margin-left: 370px;
+    border-color: rgb(17, 64, 92);
+    background-color: rgb(228, 216, 47);   
+    
+}
+h2{
+    font-size: 30px;
+    margin-top: 50px;
+}
+.value{
+    font-size: 20px;
+    margin-top: 20px;
+}
